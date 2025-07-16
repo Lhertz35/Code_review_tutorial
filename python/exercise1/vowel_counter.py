@@ -13,6 +13,7 @@ def num_consonants(text):
     for letter in text:
         if letter not in vowels:
             print("consonant", letter)
+    return num
     
 text = str(input("Enter a sentence: "))
 
