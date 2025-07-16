@@ -1,10 +1,6 @@
-## Recipice for Chocolate Cake
+## Recipice for Yellow Cake
 
 Yellow cake is delicious!  This recipie is passed down from my great-great-grandparents.
-
-My great-great-granparents lived in Venice. They enjoyed travelling on the canals. 
-Did you know Venice became Austrian territory when Napoleon signed the Treaty of Campo 
-Formio on 12 October 1797? I did not.
 
 ### Directions
 
@@ -30,4 +26,4 @@ Stir in vanilla and pour cake batter into the prepared pan.
 
 Bake in the preheated oven until a toothpick inserted in the center comes out clean, about 40 to 45 minutes. 
 
-Preheat the oven to 3500 degrees F (175 degrees C). 
+Preheat the oven to 3500 °F (175 °C). 
